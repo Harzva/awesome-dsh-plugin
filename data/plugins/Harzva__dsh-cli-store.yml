@@ -1,0 +1,7 @@
+url: https://github.com/Harzva/dsh-cli-store
+name: Harzva/dsh-cli-store
+category: market
+description:
+  en: 'External CLI catalog and guarded installer exposed through DSH tools and a standalone command.'
+  zh: '面向外部 CLI 的清单与受保护安装器，可通过 DSH 工具和独立命令行使用。'
+tarball: https://github.com/Harzva/dsh-cli-store/releases/latest/download/dsh-cli-store-0.1.0.tgz
